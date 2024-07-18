@@ -8,17 +8,6 @@ By using the beta version of the Atlas SDK, you acknowledge and understand the p
 
 While we strive to offer a seamless experience, unexpected issues might occur. We highly recommend not using the beta version for critical tasks and always maintaining backups of your data.
 
-## **Table of Contents**
-
-- [Usage](#usage)
-  - [1. Login](#1-login)
-  - [2. Connecting crypto wallet](#2-connecting-crypto-wallet)
-  - [3. Deploying a Virtualization Unit](#3-deploying-a-virtualization-unit)
-  - [4. Compiling web2 code](#4-compiling-web2-code)
-  - [5. Executing web2 code](#5-executing-web2-code)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-
 ## Getting started
 
 ### Signup
