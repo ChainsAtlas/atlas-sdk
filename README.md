@@ -1,6 +1,6 @@
 # **Atlas SDK v0.1.0**
 
-ANy software in any programming languages on any blockchain.
+Any software in any programming languages on any blockchain.
 
 ## Beta version disclaimer
 
