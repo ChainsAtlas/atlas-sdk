@@ -1,8 +1,12 @@
 {
-  "name": "atlas-sdk",
+  "name": "@chainsatlas/atlas-sdk",
   "version": "0.1.0",
   "description": "Compile web2 code to run on web3 environments.",
   "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChainsAtlas/atlas-sdk.git"
+  },
   "scripts": {
     "cm": "cz",
     "build": "tsc",
@@ -16,8 +20,12 @@
     "evm",
     "interoperability"
   ],
-  "author": "Marcos Medeiros",
+  "author": "Marcos Medeiros <marcos.medeiros@chainsatlas.com>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChainsAtlas/atlas-sdk/issues"
+  },
+  "homepage": "https://github.com/ChainsAtlas/atlas-sdk#readme",
   "devDependencies": {
     "@commitlint/cli": "^19.3.0",
     "@commitlint/config-conventional": "^19.2.2",
