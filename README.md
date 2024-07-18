@@ -18,8 +18,6 @@ Once you signup, an API Key will be automatically generated and displayed to you
 
 Once you have your API Key at hand, use can start using `atlas-sdk`.
 
-![Login](./assets/img/docs/login.png)
-
 ### Installation
 
 ```
