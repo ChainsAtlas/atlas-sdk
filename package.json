@@ -4,6 +4,7 @@
   "description": "Compile web2 code to run on web3 environments.",
   "main": "dist/index.js",
   "scripts": {
+    "cm": "cz",
     "build": "tsc",
     "watch": "tsc --watch",
     "test": "jest"
@@ -18,15 +19,30 @@
   "author": "Marcos Medeiros",
   "license": "MIT",
   "devDependencies": {
+    "@commitlint/cli": "^19.3.0",
+    "@commitlint/config-conventional": "^19.2.2",
     "@eslint/js": "^9.7.0",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/npm": "^12.0.1",
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
     "eslint": "9.x",
     "globals": "^15.8.0",
     "prettier": "3.3.3",
+    "release": "^6.3.1",
+    "semantic": "^0.0.1",
+    "semantic-release": "^24.0.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.5.3",
     "typescript-eslint": "^7.16.1"
   },
   "dependencies": {
     "cross-fetch": "^4.0.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }

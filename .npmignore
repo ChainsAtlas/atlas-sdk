@@ -10,6 +10,8 @@ eslint.config.mjs
 .eslintrc.json
 .prettierrc
 jest.config.js
+.releaserc
+commitlint.config.js
 
 # Exclude local environment files
 .env
