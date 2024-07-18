@@ -1,0 +1,32 @@
+{
+  "name": "atlas-sdk",
+  "version": "0.1.0",
+  "description": "Compile web2 code to run on web3 environments.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "test": "jest"
+  },
+  "keywords": [
+    "blockchain",
+    "web3",
+    "ethereum",
+    "evm",
+    "interoperability"
+  ],
+  "author": "Marcos Medeiros",
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^9.7.0",
+    "eslint": "9.x",
+    "globals": "^15.8.0",
+    "prettier": "3.3.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3",
+    "typescript-eslint": "^7.16.1"
+  },
+  "dependencies": {
+    "cross-fetch": "^4.0.0"
+  }
+}

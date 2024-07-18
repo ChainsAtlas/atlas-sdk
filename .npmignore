@@ -1,0 +1,40 @@
+# Exclude source files
+src/
+
+# Exclude test files
+test/
+
+# Exclude configuration files
+tsconfig.json
+eslint.config.mjs
+.eslintrc.json
+.prettierrc
+jest.config.js
+
+# Exclude local environment files
+.env
+.env.local
+
+# Exclude git files
+.git/
+.github/
+.gitignore
+
+# Exclude node_modules (should not be published)
+node_modules/
+
+# Exclude logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Exclude lock files
+package-lock.json
+yarn.lock
+
+# Exclude documentation files
+README.md
+
+# Exclude other unnecessary files
+.DS_Store
+Thumbs.db
