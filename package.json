@@ -1,6 +1,6 @@
 {
   "name": "@chainsatlas/atlas-sdk",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Compile web2 code to run on web3 environments.",
   "main": "dist/index.js",
   "repository": {
