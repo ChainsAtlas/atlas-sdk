@@ -1,5 +1,5 @@
 # Atlas SDK
-## Any software in any programming languages on any blockchain.
+## Any software in any programming language on any blockchain.
 
 The Atlas SDK enables developers to execute traditional web2 languages like C, Javascript and Python on web3 environments. It works as a client to the ChainsAtlas API that compiles web2 code to bytecode compatible with the ChainsAtlas Virtualizatiom Unit.
 
