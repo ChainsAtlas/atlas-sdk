@@ -22,6 +22,9 @@ commitlint.config.js
 .github/
 .gitignore
 
+# Output of 'npm pack'
+*.tgz
+
 # Exclude node_modules (should not be published)
 node_modules/
 
@@ -36,6 +39,7 @@ yarn.lock
 
 # Exclude documentation files
 README.md
+CHANGELOG.md
 
 # Exclude other unnecessary files
 .DS_Store
